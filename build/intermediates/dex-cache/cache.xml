@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Volumes/TOSHBIA EXT/David_Longan_Week5_HW/app/build/intermediates/exploded-aar/org.puredata.android/pd-core/1.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="79334435f653b507dd64f120572d49d9620bbf49">
+        <dex dex="/Volumes/TOSHBIA EXT/David_Longan_Week5_HW/app/build/intermediates/transforms/dex/debug/folders/1000/10/org.puredata.android-pd-core-1.0.2_cadc6d137f665d1833602bbdda5df04a9d9fa671/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/TOSHBIA EXT/David_Longan_Week5_HW/app/build/intermediates/exploded-aar/com.noisepages.nettoyeur/midi/1.0.0-rc1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a35b73ff5c4ab6af57b21c03b9b3aa234d816a7f">
+        <dex dex="/Volumes/TOSHBIA EXT/David_Longan_Week5_HW/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.noisepages.nettoyeur-midi-1.0.0-rc1_07b854e910747444276ef61540a31859d2e5947b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/TOSHBIA EXT/David_Longan_Week5_HW/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="/Volumes/TOSHBIA EXT/David_Longan_Week5_HW/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.1.0_9e7adb6a4ce81b32c789531063d92406a503f2e1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/TOSHBIA EXT/David_Longan_Week5_HW/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="/Volumes/TOSHBIA EXT/David_Longan_Week5_HW/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.1.0_b39a13da072bbd279ab57fbeba55701ac16e7976/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/TOSHBIA EXT/David_Longan_Week5_HW/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="/Volumes/TOSHBIA EXT/David_Longan_Week5_HW/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.1.0_4249bfee448cfd6028ec192d9deb8817a5341980/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/TOSHBIA EXT/David_Longan_Week5_HW/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="/Volumes/TOSHBIA EXT/David_Longan_Week5_HW/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.1.0_3f53601441e3bff4d5375a4a2b74338159dfba1b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DaveLongan/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.0/support-annotations-25.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="/Volumes/TOSHBIA EXT/David_Longan_Week5_HW/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.1.0_6c38c9027e8ac6e6d759bff9def3f22391e13309/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/TOSHBIA EXT/David_Longan_Week5_HW/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="046795a69deb080c14dc3bfefbab716506ab4f38">
+        <dex dex="/Volumes/TOSHBIA EXT/David_Longan_Week5_HW/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_691cbad9b53fcba34980bd019fa2f0d96f2a85f8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/TOSHBIA EXT/David_Longan_Week5_HW/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="/Volumes/TOSHBIA EXT/David_Longan_Week5_HW/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.1.0_b6516e27f1f884d6d506494240c3a8d835e42ede/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/TOSHBIA EXT/David_Longan_Week5_HW/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="/Volumes/TOSHBIA EXT/David_Longan_Week5_HW/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.1.0_2e6fb89df6a7588610a26941f299674129999152/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/TOSHBIA EXT/David_Longan_Week5_HW/app/build/intermediates/exploded-aar/com.android.support/gridlayout-v7/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c83fbde55c05bc186002d7ce3570d619c3d6ee1f">
+        <dex dex="/Volumes/TOSHBIA EXT/David_Longan_Week5_HW/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-gridlayout-v7-25.1.0_85231805b97769e51b64ed28fa6dae1b10932f49/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/TOSHBIA EXT/David_Longan_Week5_HW/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Volumes/TOSHBIA EXT/David_Longan_Week5_HW/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.1.0_61c113223747d634e22390e621d4eab3ede0329f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/TOSHBIA EXT/David_Longan_Week5_HW/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1b221a5e31b4ca39ef1e3f57727a728404ae4a5a">
+        <dex dex="/Volumes/TOSHBIA EXT/David_Longan_Week5_HW/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_577ea5e01db4531cfffcf267f0ecd45995650545/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/TOSHBIA EXT/David_Longan_Week5_HW/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="/Volumes/TOSHBIA EXT/David_Longan_Week5_HW/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.1.0_5bdf326ef03e5b02243ec106deda7e22f765a2c3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/TOSHBIA EXT/David_Longan_Week5_HW/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="/Volumes/TOSHBIA EXT/David_Longan_Week5_HW/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.1.0_24e8508f18d42dd3aa346f93b7ef5a5c664efa81/classes.dex" />
+    </item>
+
+</items>
